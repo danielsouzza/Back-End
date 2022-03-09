@@ -1,5 +1,3 @@
-from numpy import real
-
 
 def leianum(msg,tipo):
     num = 0
