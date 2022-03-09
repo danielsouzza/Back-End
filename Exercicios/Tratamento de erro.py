@@ -1,4 +1,4 @@
-
+# tratamento de erro para números int e float
 def leianum(msg,tipo):
     num = 0
     while True:

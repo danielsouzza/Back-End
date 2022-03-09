@@ -1,4 +1,3 @@
-from curses.ascii import isalnum, isalpha
 from utilidades import moeda
 
 def leiadinheiro(msg):
